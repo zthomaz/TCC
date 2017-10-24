@@ -3,7 +3,7 @@ NIM : 155410041
 Tugas Teori TCC
 
 
-/*<?php
+<?php
 //including the database connection file
 include_once("config.php");
  
@@ -38,4 +38,4 @@ $result = $db->restaurants->find()->sort(array('_id' => -1));
     ?>
     </table>
 </body>
-</html>*/
+</html>
