@@ -1,0 +1,5 @@
+Pertama membuat akun di mlab.com, membuat collesion dan usernya
+kedua menginstall driver mongodb
+ketiga membuat file CRUD seperti yang seperti di upload di github
+keempat test file config.php kalau berhasil maka bisa dijalankan index.php
+kelima mencoba menambahkan data, edit dan delete data
